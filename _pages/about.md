@@ -1,8 +1,14 @@
 ---
-permalink: /about/
 title: "About"
+permalink: /about/
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Ruthvik Bommena, a PhD student in Aerospace Engineering at the University of Illinois Urbana-Champaign.  
+My work centers on space mission design, spacecraft autonomy, and guidance & control systems for in-space servicing and assembly.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+In my academic and research journey so far, I've worked on:
+- Satellite swarm trajectory optimization
+- Thruster-based attitude control
+- Low-thrust multi-revolution transfers
+
+Outside of research, I enjoy skydiving, hiking, and adventure sports.
