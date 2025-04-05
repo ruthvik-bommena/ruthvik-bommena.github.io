@@ -5,8 +5,8 @@ permalink: /publications/
 
 ## Journal Publications
 
-1. **R. Bommena** and R. Woollands, “Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations,” *The Journal of the Astronautical Sciences*, 2024. <span style="color:blue">[**https://doi.org/10.1007/s40295-024-00470-7**](https://doi.org/10.1007/s40295-024-00470-7)</span>
-2. A. Pascarella, **R. Bommena**, S. Eggl, and R. Woollands, “Mission Design for Space Telescope Servicing at Sun-Earth L2,” *Acta Astronautica*, 2024. <span style="color:blue">[**https://doi.org/10.1016/j.actaastro.2024.08.031**](https://doi.org/10.1016/j.actaastro.2024.08.031)</span>
+1. **R. Bommena** and R. Woollands, “Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations,” *The Journal of the Astronautical Sciences*, 2024. <a href="https://doi.org/10.1007/s40295-024-00470-7" target="_blank" style="color:blue"><strong>https://doi.org/10.1007/s40295-024-00470-7</strong></a>
+2. A. Pascarella, **R. Bommena**, S. Eggl, and R. Woollands, “Mission Design for Space Telescope Servicing at Sun-Earth L2,” *Acta Astronautica*, 2024. <a href="https://doi.org/10.1016/j.actaastro.2024.08.031" target="_blank" style="color:blue"><strong>https://doi.org/10.1016/j.actaastro.2024.08.031</strong></a>
 
 ## Conference Presentations
 
