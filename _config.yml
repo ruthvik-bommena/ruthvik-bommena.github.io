@@ -121,3 +121,7 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+# Custom JavaScript to open external links in a new tab
+custom_js:
+  - /assets/js/external-links.js
