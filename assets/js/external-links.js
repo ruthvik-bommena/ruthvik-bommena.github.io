@@ -2,11 +2,10 @@ document.addEventListener("DOMContentLoaded", function() {
   var anchors = document.getElementsByTagName("a");
   for (var i = 0; i < anchors.length; i++) {
     var a = anchors[i];
-    // If the link is external, add target="_blank" and rel attributes
+    // Check if the link is external (compare hostname with current location)
     if (a.href && a.hostname !== window.location.hostname && a.href.indexOf("http") === 0) {
       a.target = "_blank";
       a.rel = "noopener noreferrer";
     }
   }
 });
-
