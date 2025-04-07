@@ -19,7 +19,7 @@ Aug 2020 – May 2021
 - Integrated custom subsystems including antennas, onboard cameras, GPS, and an autonomous landing system.  
 - Designed and tested a servo-based release mechanism for payload recovery.
 
-  <a href="https://engineeringexpo.uic.edu/news-stories/picture-and-video-of-earth-from-the-edge-of-space/" target="_blank" style="color:blue">Project Link</a>
+ <a href="https://engineeringexpo.uic.edu/news-stories/picture-and-video-of-earth-from-the-edge-of-space/" target="_blank" style="color:blue">Project Link</a>
 
 #### **AIAA UIC Chapter**  
 *Chicago, IL*  
@@ -28,4 +28,4 @@ Sep 2017 – Jan 2020
 - Contributed to SRAD 30k 1st place and COTS 2nd place wins at IREC 2018.  
 - Optimized rocket performance using simulation and experimental testing under various flight loads.
 
-  <a href="https://mie.uic.edu/news-stories/engineering-students-blast-to-first-place-at-international-competition/" target="_blank" style="color:blue">Project Link</a>
+ <a href="https://mie.uic.edu/news-stories/engineering-students-blast-to-first-place-at-international-competition/" target="_blank" style="color:blue">Project Link</a>
