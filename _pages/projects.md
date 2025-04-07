@@ -3,6 +3,8 @@ title: "Projects"
 permalink: /projects/
 ---
 
+---
+
 #### **Assembly of Large Aperture Space Telescopes in Cislunar Space Using a Swarm of Autonomous Small Satellites**  
 *Champaign, IL*  
 Aug 2022 – Aug 2023  
