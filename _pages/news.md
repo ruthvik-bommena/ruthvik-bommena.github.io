@@ -6,11 +6,11 @@ class: wide
 
 ---
 
-1. The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two milestones in Ruthvik Bommena’s acedemic and proffesional journey — winning the **John V. Breakwell Student Award** and becoming a **certified Private Pilot**.
+1. The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two major achievements in Ruthvik Bommena’s journey — winning the **John V. Breakwell Student Award** and becoming a certified **Private Pilot**.
 
     - <a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:blue">University of Illinois Urbana-Champaign: Like advisor/like student</a>
 
-2. Ruthvik Bommena** and Dr. Robyn Woollands’s publication titled *"Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations"* in *The Journal of the Astronautical Sciences* **received widespread attention in the scientific media**.
+2. Ruthvik Bommena and Dr. Robyn Woollands’s publication titled *"Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations"*  in *The Journal of the Astronautical Sciences* **received widespread attention in the scientific media**.
 
     - <a href="https://aerospace.illinois.edu/news/73647" target="_blank" style="color:blue">University of Illinois Urbana-Champaign: New research sheds light on using multiple CubeSats for in-space servicing and repair missions</a>  
     - <a href="https://phys.org/news/2025-02-multiple-cubesats-space-missions.html" target="_blank" style="color:blue">Phys.org: Research sheds light on using multiple CubeSats for in-space servicing and repair missions</a>  
@@ -24,7 +24,7 @@ class: wide
     - <a href="https://bioengineer.org/breakthrough-research-reveals-potential-of-multiple-cubesats-for-in-space-servicing-and-repair-operations/" target="_blank" style="color:blue">Bioengineer.org: Breakthrough Research Reveals Potential of Multiple CubeSats for In-Space Servicing and Repair Operations</a>
 
 
-3. Alex Pascarella, Ruthvik Bommena, Dr. Siegfried Eggl, and Dr. Robyn Woollands’s publication titled *"Mission design for space telescope servicing at Sun–Earth L2"* in *Acta Astronautica* received media coverage following its release.
+3. Alex Pascarella, Ruthvik Bommena, Dr. Siegfried Eggl, and Dr. Robyn Woollands’s publication titled *"Mission design for space telescope servicing at Sun–Earth L2"*  in *Acta Astronautica* received media coverage following its release.
     - <a href="https://scitechdaily.com/reviving-the-james-webb-the-ingenious-strategy-to-service-a-space-giant/" target="_blank" style="color:blue">SciTechDaily: Reviving the James Webb: The Ingenious Strategy to Service a Space Giant</a>  
     - <a href="https://www.spacedaily.com/reports/A_mission_design_to_extend_the_life_of_space_telescopes_999.html" target="_blank" style="color:blue">SpaceDaily: A mission design to extend the life of space telescopes</a>
     - <a href="https://www.universetoday.com/articles/space-telescopes-could-see-a-second-life-with-a-servicing-mission" target="_blank" style="color:blue">Universe Today: Space Telescopes Could See a Second Life With a Servicing Mission</a>  
