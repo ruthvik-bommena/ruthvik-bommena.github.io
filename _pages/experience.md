@@ -3,6 +3,7 @@ title: "Experience"
 permalink: /experience/
 ---
 
+---
 
 #### **Graduate Research Assistant**  
 *University of Illinois Urbana-Champaign – Champaign, IL*  
