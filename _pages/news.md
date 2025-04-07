@@ -10,6 +10,7 @@ class: wide
     <ul>
       <li><a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:blue">University of Illinois Urbana-Champaign: Like advisor/like student</a></li>
     </ul>
+    <div style="margin-bottom:1.5em;"></div>
   </li>
 
   <li>
@@ -26,6 +27,7 @@ class: wide
       <li><a href="https://blog.joshuniverse.com/cubesats-enhance-in-space-repair-missions/" target="_blank" style="color:blue">Josh Universe Blog: CubeSats Enhance In-Space Repair Missions</a></li>
       <li><a href="https://bioengineer.org/breakthrough-research-reveals-potential-of-multiple-cubesats-for-in-space-servicing-and-repair-operations/" target="_blank" style="color:blue">Bioengineer.org: Breakthrough Research Reveals Potential of Multiple CubeSats for In-Space Servicing and Repair Operations</a></li>
     </ul>
+    <div style="margin-bottom:1.5em;"></div>
   </li>
 
   <li>
@@ -36,5 +38,7 @@ class: wide
       <li><a href="https://www.universetoday.com/articles/space-telescopes-could-see-a-second-life-with-a-servicing-mission" target="_blank" style="color:blue">Universe Today: Space Telescopes Could See a Second Life With a Servicing Mission</a></li>
       <li><a href="https://www.eurekalert.org/news-releases/1067052" target="_blank" style="color:blue">EurekAlert!: A mission design for servicing telescopes in space</a></li>
     </ul>
+    <div style="margin-bottom:1.5em;"></div>
   </li>
 </ol>
+
