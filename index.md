@@ -6,12 +6,4 @@ layout: single
 author_profile: true
 ---
 
-I'm Ruthvik Bommena, a PhD student in Aerospace Engineering at the University of Illinois Urbana-Champaign.  
-My work centers on space mission design, spacecraft autonomy, and guidance & control systems for in-space servicing and assembly.
-
-In my academic and research journey so far, I've worked on:
-- Satellite swarm trajectory optimization
-- Thruster-based attitude control
-- Low-thrust multi-revolution transfers
-
-Outside of research, I enjoy skydiving, hiking, and adventure sports.
+Ruthvik Bommena is a PhD candidate in Aerospace Engineering and a Graduate Research Assistant in the Space Situational Awareness and Space Sustainability Laboratory at the University of Illinois Urbana-Champaign (UIUC). He holds a Master’s degree in Aerospace Engineering from UIUC and a Bachelor’s degree in Mechanical Engineering from the University of Illinois Chicago. His research primarily focuses on developing constrained trajectory optimization techniques for multi-agent systems, with applications in in-space servicing and assembly missions. Beyond academia, Ruthvik also holds a Private Pilot License, which he earned from the Institute of Aviation at Parkland College.
