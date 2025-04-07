@@ -1,5 +1,5 @@
 ---
-title: "Media Coverage"
+title: "News & Media Coverage"
 permalink: /news/
 class: wide
 ---
@@ -8,7 +8,7 @@ class: wide
 
 <ol>
   <li>
-    The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two major achievements in Ruthvik Bommena’s journey — winning the John V. Breakwell Student Awardand becoming a certified Private Pilot.
+    The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two major achievements in Ruthvik Bommena’s journey — winning the John V. Breakwell Student Award and becoming a certified Private Pilot.
     <ul>
       <li><a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:blue">University of Illinois Urbana-Champaign: Like advisor/like student</a></li>
     </ul>
