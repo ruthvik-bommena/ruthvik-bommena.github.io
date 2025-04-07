@@ -1,9 +1,9 @@
 ---
-title: "News"
+title: "Media Coverage"
 permalink: /news/
 ---
 
-## Media Coverage
+--
 
 1. **University of Illinois Urbana-Champaign**: <a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:blue">Like advisor/like student</a>  
 2. **University of Illinois Urbana-Champaign**: <a href="https://aerospace.illinois.edu/news/73647" target="_blank" style="color:blue">New research sheds light on using multiple CubeSats for in-space servicing and repair missions</a>  
