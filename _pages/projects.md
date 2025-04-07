@@ -21,7 +21,7 @@ Aug 2020 – May 2021
 - Integrated custom subsystems including antennas, onboard cameras, GPS, and an autonomous landing system.  
 - Designed and tested a servo-based release mechanism for payload recovery.
 
- <a href="https://uofi.box.com/s/2ltcae737hbipjtp8v0wmlhwifk0vt22" target="_blank" style="color:blue">Box Drive</a>,
+ <a href="https://engineeringexpo.uic.edu/news-stories/picture-and-video-of-earth-from-the-edge-of-space/" target="_blank" style="color:blue">Project Link</a>, <a href="https://uofi.box.com/s/2ltcae737hbipjtp8v0wmlhwifk0vt22" target="_blank" style="color:blue">Box Drive</a>,
 
 #### **AIAA UIC Chapter**  
 *Chicago, IL*  
