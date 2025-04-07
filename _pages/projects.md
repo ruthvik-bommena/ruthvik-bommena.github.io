@@ -9,6 +9,7 @@ Aug 2022 – Aug 2023
 - Led key efforts in a NASA STTR Phase 1 collaboration with JPL, Ten One Aerospace, and UIUC on autonomous satellite swarms for telescope assembly.  
 - Developed optimal guidance and control algorithms for cislunar autonomous assembly simulations.  
 - Delivered bi-weekly presentations and authored technical reports for project deliverables.
+
   Project Website: <a href="https://example.com/project-link" target="_blank" style="color:blue;">Assembly of Large Aperture Space Telescopes in Cislunar Space Using a Swarm of Autonomous Small Satellites</a>
 
 #### **UIC Capstone Senior Design**  
