@@ -17,11 +17,11 @@ Ruthvik Bommena is a PhD candidate in Aerospace Engineering and a Graduate Resea
 ## Education
 
 **University of Illinois Urbana-Champaign (UIUC)**  
-*Ph.D. Aerospace Engineering (Expected May 2026)*  
-*M.Sc. Aerospace Engineering (Aug 2021 – May 2023)*
+*Ph.D. Aerospace Engineering* (Expected May 2026)  
+*M.Sc. Aerospace Engineering* (Aug 2021 – May 2023)
 
 **University of Illinois Chicago (UIC)**  
-*B.Sc. Mechanical Engineering (Aug 2017 – May 2021)*
+*B.Sc. Mechanical Engineering* (Aug 2017 – May 2021)
 
 **Institute of Aviation at Parkland College**  
-*Private Pilot License (Aug 2022 – May 2023)*
+*Private Pilot License* (Aug 2022 – May 2023)
