@@ -1,0 +1,14 @@
+/* Always display full brightness and disable any hover transitions */
+.author-avatar,
+.author-bio,
+.social-links a {
+  filter: brightness(100%) !important;
+  transition: none !important;
+}
+
+.author-avatar:hover,
+.author-bio:hover,
+.social-links a:hover {
+  filter: brightness(100%) !important;
+  transition: none !important;
+}
