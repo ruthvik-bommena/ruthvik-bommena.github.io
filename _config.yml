@@ -93,12 +93,6 @@ footer:
       url: "https://scholar.google.com/citations?user=qiCtdTcAAAAJ&hl=en"
       
 # Enable custom CSS and JS
-sass:
-  style: compressed
-
-custom_css:
-  - /assets/css/custom.css
-
 custom_js:
   - /assets/js/external-links.js
 
