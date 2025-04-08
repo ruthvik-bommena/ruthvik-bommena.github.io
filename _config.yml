@@ -92,6 +92,15 @@ footer:
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=qiCtdTcAAAAJ&hl=en"
       
+# Enable custom CSS and JS
+sass:
+  style: compressed
+
+custom_css:
+  - /assets/css/custom.css
+
+custom_js:
+  - /assets/js/external-links.js
 
 defaults:
   # _posts
@@ -120,8 +129,4 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-# Custom JavaScript to open external links in a new tab
-custom_js:
-  - /assets/js/external-links.js
   
