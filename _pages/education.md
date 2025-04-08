@@ -1,6 +1,0 @@
----
-title: "Education"
-permalink: /education/
----
-
----
