@@ -1,0 +1,6 @@
+.author__avatar,
+.author__content,
+.author__urls {
+  opacity: 1 !important;
+  transition: none !important;
+}
