@@ -3,6 +3,12 @@ title: "Research"
 permalink: /research/
 ---
 
+My research focuses on developing six-degrees-of-freedom (6-DOF) spacecraft trajectory optimization algorithms with path inequality constraints. My work is centered around applications in in-space servicing and assembly (ISAM) missions, where the trajectories of servicing agents are simulated between a target spacecraft and a cargo vehicle. The developed methodologies are designed to be general and applicable to any dynamical model or orbital regime, provided the reference frame is centered on the target spacecraft. My current research specifically explores ISAM scenarios in Earth orbits, as well as in the orbits around the Sun–Earth and Earth–Moon Lagrange Points. 
+
+## 6-DOF Trajectory Optimization
+
+
+
 ## Multi-Agent 6-DOF Trajectory Optimization with Anti-collision Constraints
 For large target spacecraft and structures, multiple agents can operate simultaneously to transfer components to and from the service vehicle, with each agent targeting a specific location on the target spacecraft. To ensure a safe and efficient servicing and assembly process, these agents must adhere to various operational constraints, such as anti-collision constraints. In our recent <a href="https://link.springer.com/article/10.1007/s40295-024-00470-7" target="_blank" style="color:blue">publication</a>, we developed a novel and versatile methodology that incorporates path constraints directly into the optimal control formulation without increasing the problem size (i.e., no extra state variables) while permitting the trajectory to be solved in a single arc. This leads to substantial improvements in computational efficiency compared to the current state-of-the-art. 
 
@@ -13,7 +19,7 @@ For large target spacecraft and structures, multiple agents can operate simultan
     Your browser does not support the video tag.
   </video>
   <figcaption style="text-align: center; font-style: italic;">
-    Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around SEL-2, while satisfying anti-collision constraints.
+    Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around Sun-Earth Lagrange Point 2, while satisfying anti-collision constraints.
   </figcaption>
 </figure>
 
