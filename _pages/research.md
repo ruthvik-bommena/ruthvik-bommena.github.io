@@ -9,8 +9,9 @@ For large target spacecraft and structures, multiple agents can operate simultan
 <br>
 
 <figure>
-  <iframe width="100%" height="400" src="YOUR_VIDEO_URL" frameborder="0" allowfullscreen></iframe>
-  <figcaption style="text-align: center; font-style: italic;">Video: Simulation of multi-agent 6-DOF trajectory with anti-collision constraints</figcaption>
+  <iframe width="100%" height="400" src="/assets/videos/CRTBP_4S_Animation.mp4" frameborder="0" allowfullscreen></iframe>
+  <figcaption style="text-align: center; font-style: italic;">Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around SEL-2, while satisfying anti-collision constraints![image](https://github.com/user-attachments/assets/5f108ef6-8460-4f6f-90e5-24c6a0e784a1)
+</figcaption>
 </figure>
 
 <br>
@@ -18,13 +19,13 @@ For large target spacecraft and structures, multiple agents can operate simultan
 <div style="display: flex; justify-content: space-between; gap: 20px;">
 
   <figure style="flex: 1;">
-    <img src="/assets/images/your-image-1.png" alt="Figure 1" style="width: 100%;" />
-    <figcaption style="text-align: center; font-style: italic;">Figure 1: Optimal trajectories for two servicing agents approaching the target.</figcaption>
+    <img src="/assets/images/Distance4S.png" alt="Figure 1" style="width: 100%;" />
+    <figcaption style="text-align: center; font-style: italic;">Figure 1: Inter-agent distance.</figcaption>
   </figure>
 
   <figure style="flex: 1;">
-    <img src="/assets/images/your-image-2.png" alt="Figure 2" style="width: 100%;" />
-    <figcaption style="text-align: center; font-style: italic;">Figure 2: Enforcement of collision constraints during approach.</figcaption>
+    <img src="/assets/images/TPSF4S.png" alt="Figure 2" style="width: 100%;" />
+    <figcaption style="text-align: center; font-style: italic;">Figure 2: Thrust profiles and switch functions.</figcaption>
   </figure>
 
 </div>
