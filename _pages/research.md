@@ -16,14 +16,14 @@ For large target spacecraft and structures, multiple agents can operate simultan
   </figcaption>
 </figure>
 
-<div style="display: flex; justify-content: space-between; gap: 20px;">
+<div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <figure style="flex: 1;">
+  <figure style="flex: 1; max-width: 500px; display: flex; flex-direction: column; align-items: center;">
     <img src="/assets/images/Distance4S.png" alt="Figure 1" style="width: 100%;" />
     <figcaption style="text-align: center; font-style: italic;">Figure 1: Inter-agent distance.</figcaption>
   </figure>
 
-  <figure style="flex: 1;">
+  <figure style="flex: 1; max-width: 500px; display: flex; flex-direction: column; align-items: center;">
     <img src="/assets/images/TPSF4S.png" alt="Figure 2" style="width: 100%;" />
     <figcaption style="text-align: center; font-style: italic;">Figure 2: Thrust profiles and switch functions.</figcaption>
   </figure>
