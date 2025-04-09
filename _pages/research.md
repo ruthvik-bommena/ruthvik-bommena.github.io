@@ -9,9 +9,13 @@ For large target spacecraft and structures, multiple agents can operate simultan
 <br>
 
 <figure>
-  <iframe width="100%" height="400" src="/assets/videos/CRTBP_4S_Animation.mp4" frameborder="0" allowfullscreen></iframe>
-  <figcaption style="text-align: center; font-style: italic;">Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around SEL-2, while satisfying anti-collision constraints![image](https://github.com/user-attachments/assets/5f108ef6-8460-4f6f-90e5-24c6a0e784a1)
-</figcaption>
+  <video width="100%" controls>
+    <source src="/assets/videos/CRTBP_4S_Animation.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="text-align: center; font-style: italic;">
+    Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around SEL-2, while satisfying anti-collision constraints.
+  </figcaption>
 </figure>
 
 <br>
