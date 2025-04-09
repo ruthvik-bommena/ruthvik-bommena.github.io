@@ -75,7 +75,7 @@ author:
       url: "https://orcid.org/0000-0002-2702-7057"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:bommena[dot]ruthvik[at]gmail[dot]com"
+      url: "mailto:bommena.ruthvik@gmail.com"
 
 footer:
   links:
@@ -93,7 +93,7 @@ footer:
       url: "https://orcid.org/0000-0002-2702-7057"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:bommena[dot]ruthvik[at]gmail[dot]com"
+      url: "mailto:bommena.ruthvik@gmail.com"
       
 # Enable custom CSS and JS
 custom_js:
