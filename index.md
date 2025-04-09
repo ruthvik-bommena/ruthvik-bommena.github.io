@@ -29,3 +29,17 @@ Join me on this journey as we work to make space exploration smarter, more effic
 
 **University of Illinois Chicago (UIC)**  
 *B.Sc. Mechanical Engineering* (Aug 2017 – May 2021)
+
+## Awards & Honors
+
+- <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:blue">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
+- **Dean’s List**, *UIUC* (Aug 2022 – May 2023)  
+- **Cum Laude**, *UIC* (May 2021)  
+- **Dean’s List**, *UIC* (Aug 2018 – May 2021)
+
+## Licenses & Certifications
+
+- **Private Pilot License**, *Federal Aviation Administration* (May 2023)  
+- **Graduate Specialization in Spaceflight Engineering**, *UIUC* (May 2023)  
+- **Advanced Parallel Computing**, *National Center for Supercomputing Applications* (Dec 2023)
+
