@@ -7,7 +7,16 @@ Ruthvik Bommena's research focuses on developing six-degrees-of-freedom (6-DOF) 
 
 ## 6-DOF Trajectory Optimization
 
-
+<!-- Video Section -->
+<figure>
+  <video width="100%" controls>
+    <source src="/assets/videos/LEO_6DOFTrajectoryTargetFrame_withPlumeDirection.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  <figcaption style="text-align: center; font-style: italic;">
+    Animation 1: Optimal 6-DOF trajectory (fuel-optimal and minimum-torque) of a servicing agent between the service vehicle and the target spacecraft in a LEO orbit (orbit radius = 6778 km).
+  </figcaption>
+</figure>
 
 ## Multi-Agent 6-DOF Trajectory Optimization with Anti-collision Constraints
 For large target spacecraft and structures, multiple agents can operate simultaneously to transfer components to and from the service vehicle, with each agent targeting a specific location on the target spacecraft. To ensure a safe and efficient servicing and assembly process, these agents must satisfy various operational constraints, such as anti-collision constraints. In a recent <a href="https://link.springer.com/article/10.1007/s40295-024-00470-7" target="_blank" style="color:blue">publication</a> by Bommena et al., a novel and versatile methodology was developed that incorporates path constraints directly into the optimal control formulation without increasing the problem size (i.e., no additional state variables), while allowing the trajectory to be solved in a single arc. This lead to substantial improvements in computational efficiency compared to the current state-of-the-art. 
