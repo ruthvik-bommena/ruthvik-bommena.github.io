@@ -12,7 +12,7 @@ For large target spacecraft and structures, multiple agents can operate simultan
     <source src="/assets/videos/CRTBP_4S_Animation.mp4" type="video/mp4">
     Your browser does not support the video tag.
   </video>
-  <div style="font-style: italic; font-size: 0.95em; margin-top: 0.5em;">
+  <div style="font-style: italic; margin-top: 0.2em;">
     Animation 1: Optimal trajectories of four servicing agents transporting modular components between the service vehicle and the target spacecraft in a Halo orbit around SEL-2, while satisfying anti-collision constraints.
   </div>
 </div>
@@ -21,11 +21,11 @@ For large target spacecraft and structures, multiple agents can operate simultan
 <div style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap; margin-top: 0;">
   <figure style="flex: 1; max-width: 500px; display: flex; flex-direction: column; align-items: center; margin: 0;">
     <img src="/assets/images/Distance4S.png" alt="Figure 1" style="width: 100%;" />
-    <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">Figure 1: Inter-agent distance.</figcaption>
+    <figcaption style="text-align: center; font-style: italic; margin-top: 0.2em;">Figure 1: Inter-agent distance.</figcaption>
   </figure>
 
   <figure style="flex: 1; max-width: 500px; display: flex; flex-direction: column; align-items: center; margin: 0;">
     <img src="/assets/images/TPSF4S.png" alt="Figure 2" style="width: 100%;" />
-    <figcaption style="text-align: center; font-style: italic; margin-top: 0.5em;">Figure 2: Thrust profiles and switch functions.</figcaption>
+    <figcaption style="text-align: center; font-style: italic; margin-top: 0.2em;">Figure 2: Thrust profiles and switch functions.</figcaption>
   </figure>
 </div>
