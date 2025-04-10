@@ -14,10 +14,9 @@
 # in the templates via {{ site.myvariable }}.
 title: Ruthvik Bommena
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  PhD Candidate at UIUC \\| Aerospace Engineer \\| Private Pilot
+description: "PhD Candidate at UIUC | Aerospace Engineer | Private Pilot"
 # twitter_username: username
-github_username: ruthvik-bommena
+# github_username: ruthvik-bommena
 minimal_mistakes_skin: air
 search: false
 
