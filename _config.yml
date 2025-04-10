@@ -14,7 +14,7 @@
 # in the templates via {{ site.myvariable }}.
 title: Ruthvik Bommena
 email:
-description: "PhD Candidate at UIUC | Aerospace Engineer | Private Pilot"
+description: "PhD Candidate at UIUC &#124; Aerospace Engineer &#124; Private Pilot"
 # twitter_username: username
 # github_username: ruthvik-bommena
 minimal_mistakes_skin: air
