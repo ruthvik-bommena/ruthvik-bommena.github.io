@@ -16,8 +16,6 @@ Ruthvik Bommena is a PhD Candidate in Aerospace Engineering and a Graduate Resea
 
 Ruthvik Bommena's research primarily focuses on developing path-constrained optimal guidance and control strategies for in-space servicing and assembly missions (ISAM) using multi-agent satellite swarms. Why does this matter? Imagine decommissioning a billion-dollar space telescope or a satellite just because it ran out of fuel. Or being limited by how much a rocket can carry to space. Instead, we can use ISAM to solve these problems. It’s like giving spacecraft a second (or third) chance at life through rocket science—promoting spacecraft reusability and space sustainability.
 
-Join me on this journey as we work to make space exploration smarter, more efficient, and kinder to us and to the universe. 
-
 ## Education
 
 **University of Illinois Urbana-Champaign (UIUC)**  
