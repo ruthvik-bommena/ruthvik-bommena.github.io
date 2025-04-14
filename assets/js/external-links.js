@@ -1,12 +1,14 @@
-window.onload = function() {
-  console.log("External links script loaded");
-  var anchors = document.getElementsByTagName("a");
-  for (var i = 0; i < anchors.length; i++) {
-    var a = anchors[i];
-    // Check if the link is external (compare hostnames)
-    if (a.href && a.hostname !== window.location.hostname && a.href.indexOf("http") === 0) {
-      a.target = "_blank";
-      a.rel = "noopener noreferrer";
+"use strict";
+document.addEventListener("DOMContentLoaded", function() {
+  // Select all relevant links that are external.
+  const externalLinks = document.querySelectorAll('.header a, .sidebar a, .footer a');
+
+  externalLinks.forEach(link => {
+    // Optional: check if the URL is external (starts with "http")
+    if (link.href && link.href.startsWith("http")) {
+      link.setAttribute("target", "_blank");
+      link.setAttribute("rel", "noopener noreferrer");
     }
-  }
-};
+  });
+});
+
