@@ -17,7 +17,7 @@ email:
 description: "PhD Candidate at UIUC, Aerospace Engineer, Private Pilot"
 # twitter_username: username
 # github_username: ruthvik-bommena
-minimal_mistakes_skin: aqua
+minimal_mistakes_skin: contrast
 search: false
 
 # Build settings
