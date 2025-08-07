@@ -36,7 +36,7 @@ May 2021 – Aug 2021
 #### **Engineering Intern**  
 *Defence Research and Development Organisation (DRDO) – Hyderabad, India*  
 May 2019 – Jul 2019  
-  - Contributed to the fabrication process of a strategic defense system at the Research Centre Imarat (DR. APJ Abdul Kalam Complex).  
+  - Contributed to the fabrication process of a strategic defense system at the Research Centre Imarat (Dr. APJ Abdul Kalam Complex).  
   - Developed an innovative integration method for modular system components to ensure structural integrity and aerodynamic stability.  
   - Gained hands-on experience with modular aerospace systems and non-destructive testing for structural verification.
 
