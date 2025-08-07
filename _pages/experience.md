@@ -4,8 +4,7 @@ permalink: /experience/
 ---
 
 ---
-## Industry Experience
----
+# Industry Experience
 
 
 
