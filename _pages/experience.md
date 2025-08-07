@@ -27,7 +27,6 @@ May 2019 – Jul 2019
   - Developed an innovative integration method for modular system components to ensure structural integrity and aerodynamic stability.  
   - Gained hands-on experience with modular aerospace systems and non-destructive testing for structural verification.
 
----
 ## Academic Experience
 
 #### **Graduate Research Assistant**  
