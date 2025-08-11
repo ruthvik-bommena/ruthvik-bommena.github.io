@@ -15,8 +15,9 @@
 title: Ruthvik Bommena
 email:
 description: "PhD Candidate at UIUC, Aerospace Engineer, Private Pilot"
+url: "https://ruthvik-bommena.github.io"
 # twitter_username: username
-# github_username: ruthvik-bommena
+github_username: ruthvik-bommena
 minimal_mistakes_skin: contrast
 search: false
 
@@ -52,6 +53,7 @@ plugins:
   #- jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-seo-tag   
 
 author:
   name   : "Ruthvik Bommena"
