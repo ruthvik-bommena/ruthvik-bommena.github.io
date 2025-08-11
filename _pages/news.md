@@ -16,6 +16,14 @@ class: wide
   </li>
 
   <li>
+    Ruthvik Bommena won the prestigious <strong>John V. Breakwell Student Award</strong> from the American Astronautical Society (AAS) at the 2025 AAS/AIAA Space Flight Mechanics Meeting in Kauai, Hawaii.
+    <ul>
+      <li><a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:blue">American Astronautical Society: John V. Breakwell Student Award Recipients</a></li>
+    </ul>
+    <div style="margin-bottom:1.5em;"></div>
+  </li>
+  
+  <li>
     Ruthvik Bommena and Dr. Robyn Woollands’s publication titled <em>"Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations"</em> in <em>The Journal of the Astronautical Sciences</em> received widespread attention in the scientific media.
     <ul>
       <li><a href="https://aerospace.illinois.edu/news/73647" target="_blank" style="color:blue">University of Illinois Urbana-Champaign: New research sheds light on using multiple CubeSats for in-space servicing and repair missions</a></li>
