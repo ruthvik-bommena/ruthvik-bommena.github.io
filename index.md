@@ -30,7 +30,6 @@ classes: wide
 }
 </script>
 
-
 ## About
 
 Ruthvik Bommena is a PhD Candidate in Aerospace Engineering and a Graduate Research Assistant in the Computation, Optimization, Simulation, and Modeling of Orbiting Spacecraft (COSMOS) Laboratory at the University of Illinois Urbana-Champaign (UIUC). He holds a Master’s degree in Aerospace Engineering from UIUC and a Bachelor’s degree in Mechanical Engineering from the University of Illinois Chicago. Beyond academia, Ruthvik also holds a Private Pilot License, which he earned from the Institute of Aviation at Parkland College.
