@@ -9,6 +9,28 @@ permalink: /
 classes: wide
 ---
 
+# Ruthvik Bommena
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Ruthvik Bommena",
+  "url": "https://ruthvik-bommena.github.io/",
+  "image": "https://ruthvik-bommena.github.io/assets/images/RuthvikBommena_Headshot.jpg",
+  "jobTitle": "Aerospace Engineer & Ph.D. Candidate",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "University of Illinois Urbana-Champaign"
+  },
+  "sameAs": [
+    "https://www.linkedin.com/in/ruthvik-bommena/",
+    "https://github.com/ruthvik-bommena",
+    "https://scholar.google.com/citations?user=qiCtdTcAAAAJ&hl=en",
+    "https://orcid.org/0000-0002-2702-7057"
+  ]
+}
+</script>
+
 
 ## About
 
