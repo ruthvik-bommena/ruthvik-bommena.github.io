@@ -34,8 +34,12 @@ class: wide
       <li><a href="https://www.eurasiareview.com/15022025-research-sheds-light-on-using-multiple-cubesats-for-in-space-servicing-and-repair-missions/" target="_blank" style="color:blue">Eurasia Review: Research Sheds Light On Using Multiple CubeSats For In-Space Servicing And Repair Missions</a></li>
       <li><a href="https://www.techbriefs.com/component/content/article/52834-new-research-sheds-light-on-using-multiple-cubesats-for-in-space-servicing-and-repair-missions" target="_blank" style="color:blue">Tech Briefs: New Research Sheds Light on Using Multiple CubeSats for In-Space Servicing and Repair Missions</a></li>
       <li><a href="https://www.astrospace.it/2025/02/17/un-nuovo-approccio-per-lutilizzo-di-cubesat-in-missioni-spaziali-di-servizio/" target="_blank" style="color:blue">Astrospace.it: Un nuovo approccio per l’utilizzo di cubesat in missioni spaziali di servizio</a></li>
+      <li><a href="https://scienmag.com/breakthrough-research-reveals-potential-of-multiple-cubesats-for-in-space-servicing-and-repair-operations/" target="_blank" style="color:blue">Scienmag: Breakthrough Research Reveals Potential of Multiple CubeSats for In-Space Servicing and Repair Operations</a></li>
+      <li><a href="https://larepublica.es/2025/02/15/investigadores-desarrollan-trayectoria-optima-para-cubesats-en-misiones-de-reparacion-espacial/" target="_blank" style="color:blue">La Republica: Investigadores desarrollan trayectoria óptima para CubeSats en misiones de reparación espacial</a></li>
+      <li><a href="https://www.astrovm.cz/cz/pro-navstevniky/aktuality-ak/vesmirne-opravy-nove-generace-za-vyuziti-druzic-cubesat.html" target="_blank" style="color:blue">Hvězdárna Valašské Meziříčí: Vesmírné opravy nové generace za využití družic CubeSat</a></li>
       <li><a href="https://blog.joshuniverse.com/cubesats-enhance-in-space-repair-missions/" target="_blank" style="color:blue">Josh Universe Blog: CubeSats Enhance In-Space Repair Missions</a></li>
       <li><a href="https://bioengineer.org/breakthrough-research-reveals-potential-of-multiple-cubesats-for-in-space-servicing-and-repair-operations/" target="_blank" style="color:blue">Bioengineer.org: Breakthrough Research Reveals Potential of Multiple CubeSats for In-Space Servicing and Repair Operations</a></li>
+      <li><a href="https://espash.ir/news/91606/cube-satellites-become-space-repairmen/" target="_blank" style="color:blue">Cubesats become space repairmen!</a></li>
     </ul>
     <div style="margin-bottom:1.5em;"></div>
   </li>
