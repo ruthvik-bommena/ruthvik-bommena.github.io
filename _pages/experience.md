@@ -6,12 +6,21 @@ permalink: /experience/
 ---
 ## Industry Experience
 
-#### **Flight Dynamics Intern**  
-*Indian Space Research Organisation – Bengaluru, India*  
-May 2025 – Jul 2025  
+<div style="display:flex; gap:16px; align-items:flex-start; margin:0 0 1.25rem;">
+  <img src="/assets/images/isro_logo.png" alt="ISRO" style="width:60px; flex:0 0 60px; margin-top:2px;">
+  <div markdown="1" style="flex:1;">
+  
+  #### **Flight Dynamics Intern**  
+  *Indian Space Research Organisation – Bengaluru, India*  
+  May 2025 – Jul 2025
+
   - Developed an optimal impulsive trajectory design framework for Earth-return missions from lunar orbit, at ISRO’s U R Rao Satellite Centre.
   - Developed custom MATLAB/Python tools to compute minimum ΔV transfers, using optimal control theory and nonlinear programming, while enforcing lunar-departure, Earth-reentry, and dynamical constraints.
   - Executed a year-long search for 2027 to find optimal return windows, delivering validated solution sets that support mission planning for ISRO’s upcoming lunar sample-return missions.
+
+  </div>
+</div>
+
 
 #### **Mechanical Design Intern**  
 *Skyroot Aerospace – Hyderabad, India*  
