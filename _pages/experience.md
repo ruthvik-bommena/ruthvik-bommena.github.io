@@ -7,6 +7,7 @@ permalink: /experience/
 ## Industry Experience
 
 #### **Flight Dynamics Intern**  
+<img src="/assets/images/isro_logo.png" alt="ISRO Logo" width="60" style="vertical-align: middle; margin-left:10px;">  
 *Indian Space Research Organisation – Bengaluru, India*  
 May 2025 – Jul 2025  
   - Developed an optimal impulsive trajectory design framework for Earth-return missions from lunar orbit, at ISRO’s U R Rao Satellite Centre.
