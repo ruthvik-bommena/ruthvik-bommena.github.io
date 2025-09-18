@@ -5,13 +5,12 @@ permalink: /projects/
 
 ---
 
-#### **Assembly of Large Aperture Space Telescopes in Cislunar Space Using a Swarm of Autonomous Small Satellites**  
-*Champaign, IL*  
-Aug 2022 – Aug 2023  
-- Led key efforts in a NASA STTR Phase 1 collaboration with NASA JPL, Ten One Aerospace, and UIUC on autonomous satellite swarms for in-space telescope assembly.  
-- Developed optimal guidance and control algorithms for cislunar and deep-space assembly simulations.  
-- Delivered bi-weekly presentations to stakeholders and authored technical reports for project deliverables.
-
+1. #### **Assembly of Large Aperture Space Telescopes in Cislunar Space Using a Swarm of Autonomous Small Satellites**  
+   *Champaign, IL* | Aug 2022 – Aug 2023  
+   - Led key efforts in a NASA STTR Phase 1 collaboration with NASA JPL, Ten One Aerospace, and UIUC on autonomous satellite swarms for in-space telescope assembly.  
+   - Developed optimal guidance and control algorithms for cislunar and deep-space assembly simulations.  
+   - Delivered bi-weekly presentations to stakeholders and authored technical reports for project deliverables.  
+   
  <a href="https://techport.nasa.gov/projects/125430" target="_blank" style="color:blue">Project Link</a>
 
 #### **Picture and Video of Earth from the Edge of Space**  
