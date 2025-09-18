@@ -53,7 +53,7 @@ Please visit the Reserach page for more information.
 ## Awards & Honors
 
 - **Associate Member**, *Sigma Xi, The Scientific Research Honor Society* (Elected Sep 2025)
-- <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:blue">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
+- <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
 - **Dean’s List**, *UIUC* (Aug 2022 – May 2023)  
 - **Cum Laude**, *UIC* (May 2021)  
 - **Dean’s List**, *UIC* (Aug 2018 – May 2021)
