@@ -36,7 +36,7 @@ Ruthvik Bommena is a PhD Candidate in Aerospace Engineering and a Graduate Resea
 
 Ruthvik Bommena specializes in astrodynamics, spacecraft trajectory optimization, optimal control theory, and multi-agent systems. His doctoral research primarily focuses on developing path-constrained optimal 6-DOF guidance and control algorithms for safe rendezvous, relative motion, and proximity operations for in-space servicing and assembly missions (ISAM) using multi-agent satellite swarms. Why does this matter? Imagine decommissioning a billion-dollar space telescope or a satellite just because it ran out of fuel. Or being limited by how much a rocket can carry to space. Instead, we can use ISAM to solve these problems. It’s like giving spacecraft a second (or third) chance at life through rocket science—promoting spacecraft reusability and space sustainability.
 
-Please visit the Reserach page for more information.
+Please visit the <a href="https://ruthvik-bommena.github.io/research/" target="_blank" style="color:#1a0dab; text-decoration:none;">Research</a> page for more information.
 
 ## Education
 
@@ -53,7 +53,7 @@ Please visit the Reserach page for more information.
 ## Awards & Honors
 
 - **Associate Member**, *Sigma Xi, The Scientific Research Honor Society* (Elected Sep 2025)
-- <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
+- <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:#1a0dab; text-decoration:none;">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
 - **Dean’s List**, *UIUC* (Aug 2022 – May 2023)  
 - **Cum Laude**, *UIC* (May 2021)  
 - **Dean’s List**, *UIC* (Aug 2018 – May 2021)
