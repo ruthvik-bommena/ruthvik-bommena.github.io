@@ -11,7 +11,7 @@ permalink: /projects/
    - Developed optimal guidance and control algorithms for cislunar and deep-space assembly simulations.  
    - Delivered bi-weekly presentations to stakeholders and authored technical reports for project deliverables.  
    
- <a href="https://techport.nasa.gov/projects/125430" target="_blank" style="color:blue">Project Link</a>
+   <a href="https://techport.nasa.gov/projects/125430" target="_blank" style="color:blue">Project Link</a>
 
 #### **Picture and Video of Earth from the Edge of Space**  
 *Chicago, IL*  
