@@ -18,12 +18,6 @@ permalink: /experience/
   - Conducted FEA simulations for structural and thermal integrity validation.  
   - Gained skills in CAD, thrust vectoring, and technical report writing.
 
-#### **Engineering Intern** – *Defence Research and Development Organisation (DRDO)*  
-*Hyderabad, India* | May 2019 – Jul 2019
-  - Contributed to the fabrication process of a strategic defense system at the Research Centre Imarat (Dr. APJ Abdul Kalam Complex).  
-  - Developed an innovative integration method for modular system components to ensure structural integrity and aerodynamic stability.  
-  - Gained hands-on experience with modular aerospace systems and non-destructive testing for structural verification.
-
 ## Academic Experience
 
 #### **Graduate Research Assistant** – *University of Illinois Urbana-Champaign (UIUC)*  
