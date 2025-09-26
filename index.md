@@ -41,7 +41,7 @@ Please visit the <a href="https://ruthvik-bommena.github.io/research/" target="_
 ## Education
 
 - **University of Illinois Urbana-Champaign (UIUC)**  
-  *Ph.D. Aerospace Engineering* (Expected May 2026)  
+  *Ph.D. Aerospace Engineering* (Expected Dec 2026)  
   *M.Sc. Aerospace Engineering* (Aug 2021 – May 2023)
 
 - **Institute of Aviation at Parkland College**  
