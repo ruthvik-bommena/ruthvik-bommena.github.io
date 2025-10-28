@@ -59,7 +59,7 @@ plugins:
 author:
   name   : "Ruthvik Bommena"
   avatar : "/assets/images/RuthvikBommena_Headshot.jpg"
-  bio    : "PhD Candidate at UIUC \\| Aerospace Engineer \\| Private Pilot"
+  bio    : "PhD Candidate @ UIUC \\| Guidance, Navigation, and Control (GNC) \\| Astrodynamics \\| Private Pilot"
   links:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
