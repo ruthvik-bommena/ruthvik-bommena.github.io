@@ -5,9 +5,10 @@ permalink: /publications/
 
 ## Journal Publications
 
-1. **R. Bommena** and R. Woollands, “Path-Constrained Optimal 6-DOF Motion for Multi-Agent In-space Servicing and Assembly,” *Acta Astronautica*, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0094576525005600" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1016/j.actaastro.2025.08.052</a>
-2. **R. Bommena** and R. Woollands, “Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations,” *The Journal of the Astronautical Sciences*, 2024. <a href="https://doi.org/10.1007/s40295-024-00470-7" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1007/s40295-024-00470-7</a>
-3. A. Pascarella, **R. Bommena**, S. Eggl, and R. Woollands, “Mission Design for Space Telescope Servicing at Sun-Earth L2,” *Acta Astronautica*, 2024. <a href="https://doi.org/10.1016/j.actaastro.2024.08.031" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1016/j.actaastro.2024.08.031</a>
+1. H. Panag, **R. Bommena**, and R. Woollands, “Thruster Pointing Constrained Fuel Optimal 6DOF Proximity Operations Using Indirect Methods,” *The Journal of the Astronautical Sciences*, 2026. <a href="https://doi.org/10.1007/s40295-026-00572-4" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1007/s40295-026-00572-4</a>
+2. **R. Bommena** and R. Woollands, “Path-Constrained Optimal 6-DOF Motion for Multi-Agent In-space Servicing and Assembly,” *Acta Astronautica*, 2025. <a href="https://www.sciencedirect.com/science/article/pii/S0094576525005600" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1016/j.actaastro.2025.08.052</a>
+3. **R. Bommena** and R. Woollands, “Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations,” *The Journal of the Astronautical Sciences*, 2024. <a href="https://doi.org/10.1007/s40295-024-00470-7" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1007/s40295-024-00470-7</a>
+4. A. Pascarella, **R. Bommena**, S. Eggl, and R. Woollands, “Mission Design for Space Telescope Servicing at Sun-Earth L2,” *Acta Astronautica*, 2024. <a href="https://doi.org/10.1016/j.actaastro.2024.08.031" target="_blank" style="color:#1a0dab; text-decoration:none;">https://doi.org/10.1016/j.actaastro.2024.08.031</a>
 
 ## Conference Papers
 
