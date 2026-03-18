@@ -43,3 +43,13 @@ permalink: /experience/
   - Worked in the Machine Shop and Makerspace labs with subtractive and additive manufacturing tools.  
   - Operated CNC/manual mills, routers, 3D printers, and laser cutters.  
   - Gained expertise in lab safety, CAD modelling for machining and 3D printing, and post-processing.
+
+## Professional Service
+#### **Peer Reviewer** - *Acta Astronautica*    
+Sep 2025 – Present
+
+#### **Peer Reviewer** - *Journal of Guidance, Control, and Dynamics*    
+Nov 2025 – Present
+
+#### **Peer Reviewer** - *The Journal of the Astronautical Sciences*    
+March 2026 – Present                                                
