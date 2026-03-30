@@ -7,23 +7,7 @@ class: wide
 ---
 
 <ol>
-  <li>
-    The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two major achievements in Ruthvik Bommena’s journey — winning the <strong>John V. Breakwell Student Award</strong> and becoming a certified <strong>Private Pilot</strong>.
-    <ul>
-      <li><a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:#1a0dab; text-decoration:none;">University of Illinois Urbana-Champaign: Like advisor/like student</a></li>
-    </ul>
-    <div style="margin-bottom:1.5em;"></div>
-  </li>
-
-  <li>
-    Ruthvik Bommena won the prestigious <strong>John V. Breakwell Student Award</strong> from the American Astronautical Society (AAS) at the 2025 AAS/AIAA Space Flight Mechanics Meeting in Kauai, Hawaii.
-    <ul>
-      <li><a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:#1a0dab; text-decoration:none;">American Astronautical Society: John V. Breakwell Student Award Recipients</a></li>
-    </ul>
-    <div style="margin-bottom:1.5em;"></div>
-  </li>
-  
-  <li>
+ <li>
     Ruthvik Bommena and Dr. Robyn Woollands’s publication titled <em>"Indirect Trajectory Optimization with Path Constraints for Multi-Agent Proximity Operations"</em> in <em>The Journal of the Astronautical Sciences</em> received widespread attention in the scientific media.
     <ul>
       <li><a href="https://aerospace.illinois.edu/news/73647" target="_blank" style="color:#1a0dab; text-decoration:none;">University of Illinois Urbana-Champaign: New research sheds light on using multiple CubeSats for in-space servicing and repair missions</a></li>
@@ -54,4 +38,21 @@ class: wide
     </ul>
     <div style="margin-bottom:1.5em;"></div>
   </li>
+  
+  <li>
+    The University of Illinois Urbana-Champaign Department of Aerospace Engineering published an article celebrating two major achievements in Ruthvik Bommena’s journey — winning the <strong>John V. Breakwell Student Award</strong> and becoming a certified <strong>Private Pilot</strong>.
+    <ul>
+      <li><a href="https://aerospace.illinois.edu/news/74141" target="_blank" style="color:#1a0dab; text-decoration:none;">University of Illinois Urbana-Champaign: Like advisor/like student</a></li>
+    </ul>
+    <div style="margin-bottom:1.5em;"></div>
+  </li>
+
+  <li>
+    Ruthvik Bommena won the prestigious <strong>John V. Breakwell Student Award</strong> from the American Astronautical Society (AAS) at the 2025 AAS/AIAA Space Flight Mechanics Meeting in Kauai, Hawaii.
+    <ul>
+      <li><a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:#1a0dab; text-decoration:none;">American Astronautical Society: John V. Breakwell Student Award Recipients</a></li>
+    </ul>
+    <div style="margin-bottom:1.5em;"></div>
+  </li>
+  
 </ol>
