@@ -2,7 +2,7 @@
 title: "Publications"
 permalink: /publications/
 ---
-Further details on my publications can be found on my <a href="https://scholar.google.com/citations?user=qiCtdTcAAAAJ&hl=en&authuser=2" target="_blank" style="color:#1a0dab; text-decoration:none;">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Ruthvik-Bommena?ev=prf_overview" target="_blank" style="color:#1a0dab; text-decoration:none;">ResearchGate</a> profiles.
+Further details on my publications can be found on <a href="https://scholar.google.com/citations?user=qiCtdTcAAAAJ&hl=en&authuser=2" target="_blank" style="color:#1a0dab; text-decoration:none;">Google Scholar</a> and <a href="https://www.researchgate.net/profile/Ruthvik-Bommena?ev=prf_overview" target="_blank" style="color:#1a0dab; text-decoration:none;">ResearchGate</a>.
 
 ## Journal Publications
 
