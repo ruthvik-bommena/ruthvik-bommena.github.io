@@ -52,6 +52,7 @@ Please visit the <a href="https://ruthvik-bommena.github.io/research/" target="_
 
 ## Awards & Honors
 
+- **Recognition of Excellence Award**, *UIUC* (April 2026) 
 - **Associate Member**, *Sigma Xi, The Scientific Research Honor Society* (Elected Sep 2025)
 - <a href="https://www.space-flight.org/docs/Breakwell/Breakwell_winners.html" target="_blank" style="color:#1a0dab; text-decoration:none;">**John V. Breakwell Student Award**</a>, *American Astronautical Society* (Jan 2025)  
 - **Dean’s List**, *UIUC* (Aug 2022 – May 2023)  
