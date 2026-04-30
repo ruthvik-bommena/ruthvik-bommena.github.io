@@ -54,5 +54,13 @@ class: wide
     </ul>
     <div style="margin-bottom:1.5em;"></div>
   </li>
+
+  <li>
+    Ruthvik Bommena received the Recognition of Excellence Award from the University of Illinois Urbana-Champaign for outstanding academic and research achievements.
+    <ul>
+      <li><a href="https://aerospace.illinois.edu/news/81818" target="_blank" style="color:#1a0dab; text-decoration:none;">2026 awards honor AE students, faculty and staff</a></li>
+    </ul>
+    <div style="margin-bottom:1.5em;"></div>
+  </li>
   
 </ol>
